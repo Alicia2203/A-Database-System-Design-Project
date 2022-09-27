@@ -7,8 +7,7 @@ In this project, a database system is designed and created for a company. A proj
 
 ### [Database Project Report](https://github.com/Alicia2203/A-Database-Project-/blob/main/Project%20Report.pdf)
 
-### Company's Dummy Dataset
-https://github.com/Alicia2203/A-Database-Project-/blob/main/Database%20Sample%20Data.xlsx
+### [Company's Dummy Dataset](https://github.com/Alicia2203/A-Database-Project-/blob/main/Database%20Sample%20Data.xlsx)
 
-### Database System Script
-https://github.com/Alicia2203/A-Database-Project-/blob/main/Database%20Script.sql
+### [Database System Script](https://github.com/Alicia2203/A-Database-Project-/blob/main/Database%20Script.sql)
+
